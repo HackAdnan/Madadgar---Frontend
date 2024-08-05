@@ -10,11 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "axios": "^1.7.3",
     "bootstrap": "^5.3.3",
+    "portfolio-website": "file:",
     "react": "^18.3.1",
     "react-bootstrap": "^2.10.4",
+    "react-bootstrap-icons": "^1.11.4",
     "react-dom": "^18.3.1",
+    "react-multi-carousel": "^2.8.5",
+    "react-on-screen": "^2.1.1",
     "react-router-dom": "^6.26.0",
     "react-router-hash-link": "^2.4.3",
     "react-scroll": "^1.9.0"

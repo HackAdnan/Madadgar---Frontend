@@ -21,7 +21,7 @@ const CreateReport = () => {
     };
 
     try {
-      const response = await axios.post("http://localhost:7000/createReport", reportData);
+      const response = await axios.post("http://localhost:7000/reportCase", reportData);
       console.log("Success:", response.data);
     } catch (error) {
       console.error("Error:", error);
